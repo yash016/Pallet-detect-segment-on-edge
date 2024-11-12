@@ -1,0 +1,17 @@
+# Ignore Python virtual environment folder
+myenv/
+
+# Ignore temporary and system files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# Ignore data and configuration files
+data.yaml
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
