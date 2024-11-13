@@ -1,0 +1,43 @@
+[0.000000] (-) TimerEvent: {}
+[0.001719] (object_detection_semantic_segmentation_pkg) JobQueued: {'identifier': 'object_detection_semantic_segmentation_pkg', 'dependencies': OrderedDict()}
+[0.004098] (object_detection_semantic_segmentation_pkg) JobStarted: {'identifier': 'object_detection_semantic_segmentation_pkg'}
+[0.101513] (-) TimerEvent: {}
+[0.203806] (-) TimerEvent: {}
+[0.306344] (-) TimerEvent: {}
+[0.407309] (-) TimerEvent: {}
+[0.508231] (-) TimerEvent: {}
+[0.613450] (-) TimerEvent: {}
+[0.715900] (-) TimerEvent: {}
+[0.822165] (-) TimerEvent: {}
+[0.924158] (-) TimerEvent: {}
+[1.030169] (-) TimerEvent: {}
+[1.132259] (-) TimerEvent: {}
+[1.161540] (object_detection_semantic_segmentation_pkg) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/object_detection_semantic_segmentation_pkg', 'build', '--build-base', '/root/ros2_ws/build/object_detection_semantic_segmentation_pkg/build', 'install', '--record', '/root/ros2_ws/build/object_detection_semantic_segmentation_pkg/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/root/ros2_ws/src/object_detection_semantic_segmentation_pkg', 'env': {'HOSTNAME': 'docker-desktop', 'SHLVL': '1', 'HOME': '/root', 'OLDPWD': '/', 'ROS_DISTRO': 'jazzy', '_': '/usr/bin/colcon', 'TERM': 'xterm', 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'PWD': '/root/ros2_ws/build/object_detection_semantic_segmentation_pkg', 'LC_ALL': 'C.UTF-8', 'COLCON': '1', 'PYTHONPATH': '/root/ros2_ws/build/object_detection_semantic_segmentation_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/install/object_detection_semantic_segmentation_pkg/lib/python3.12/site-packages:'}, 'shell': False}
+[1.233427] (-) TimerEvent: {}
+[1.335926] (-) TimerEvent: {}
+[1.442170] (-) TimerEvent: {}
+[1.484637] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'running egg_info\n'}
+[1.493296] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'writing ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/PKG-INFO\n'}
+[1.493563] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'writing dependency_links to ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/dependency_links.txt\n'}
+[1.493891] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'writing requirements to ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/requires.txt\n'}
+[1.494281] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'writing top-level names to ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/top_level.txt\n'}
+[1.512072] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b"reading manifest file '../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/SOURCES.txt'\n"}
+[1.513675] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b"writing manifest file '../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/SOURCES.txt'\n"}
+[1.513897] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'running build\n'}
+[1.513996] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'running build_scripts\n'}
+[1.514312] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'copying and adjusting scripts/object_detection_node.py -> /root/ros2_ws/build/object_detection_semantic_segmentation_pkg/build/scripts-3.12\n'}
+[1.515184] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'running install\n'}
+[1.522966] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'running install_data\n'}
+[1.523239] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'running install_egg_info\n'}
+[1.542195] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b"removing '/root/ros2_ws/install/object_detection_semantic_segmentation_pkg/lib/python3.12/site-packages/object_detection_semantic_segmentation_pkg-0.0.0-py3.12.egg-info' (and everything under it)\n"}
+[1.542463] (-) TimerEvent: {}
+[1.543375] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'Copying ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info to /root/ros2_ws/install/object_detection_semantic_segmentation_pkg/lib/python3.12/site-packages/object_detection_semantic_segmentation_pkg-0.0.0-py3.12.egg-info\n'}
+[1.545855] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'running install_scripts\n'}
+[1.554789] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'copying /root/ros2_ws/build/object_detection_semantic_segmentation_pkg/build/scripts-3.12/object_detection_node.py -> /root/ros2_ws/install/object_detection_semantic_segmentation_pkg/lib/object_detection_semantic_segmentation_pkg\n'}
+[1.555313] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'changing mode of /root/ros2_ws/install/object_detection_semantic_segmentation_pkg/lib/object_detection_semantic_segmentation_pkg/object_detection_node.py to 755\n'}
+[1.555420] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b'changing mode of /root/ros2_ws/install/object_detection_semantic_segmentation_pkg/lib/object_detection_semantic_segmentation_pkg/video_publisher.py to 755\n'}
+[1.627024] (object_detection_semantic_segmentation_pkg) StdoutLine: {'line': b"writing list of installed files to '/root/ros2_ws/build/object_detection_semantic_segmentation_pkg/install.log'\n"}
+[1.644009] (-) TimerEvent: {}
+[1.664842] (object_detection_semantic_segmentation_pkg) CommandEnded: {'returncode': 0}
+[1.680963] (object_detection_semantic_segmentation_pkg) JobEnded: {'identifier': 'object_detection_semantic_segmentation_pkg', 'rc': 0}
+[1.682351] (-) EventReactorShutdown: {}
