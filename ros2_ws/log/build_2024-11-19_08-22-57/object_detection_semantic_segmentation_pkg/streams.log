@@ -1,0 +1,22 @@
+[1.143s] Invoking command in '/ros2_ws/src/object_detection_semantic_segmentation_pkg': PYTHONPATH=/ros2_ws/build/object_detection_semantic_segmentation_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2_ws/install/object_detection_semantic_segmentation_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/object_detection_semantic_segmentation_pkg build --build-base /ros2_ws/build/object_detection_semantic_segmentation_pkg/build install --record /ros2_ws/build/object_detection_semantic_segmentation_pkg/install.log --single-version-externally-managed install_data
+[1.462s] /usr/local/lib/python3.12/dist-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[1.463s]   warnings.warn(msg)
+[1.573s] running egg_info
+[1.591s] writing ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/PKG-INFO
+[1.592s] writing dependency_links to ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/dependency_links.txt
+[1.593s] writing entry points to ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/entry_points.txt
+[1.593s] writing requirements to ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/requires.txt
+[1.593s] writing top-level names to ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/top_level.txt
+[1.612s] reading manifest file '../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/SOURCES.txt'
+[1.613s] writing manifest file '../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/SOURCES.txt'
+[1.614s] running build
+[1.614s] running install
+[1.621s] running install_data
+[1.621s] copying package.xml -> /ros2_ws/install/object_detection_semantic_segmentation_pkg/share/object_detection_semantic_segmentation_pkg
+[1.622s] running install_egg_info
+[1.656s] removing '/ros2_ws/install/object_detection_semantic_segmentation_pkg/lib/python3.12/site-packages/object_detection_semantic_segmentation_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[1.657s] Copying ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info to /ros2_ws/install/object_detection_semantic_segmentation_pkg/lib/python3.12/site-packages/object_detection_semantic_segmentation_pkg-0.0.0-py3.12.egg-info
+[1.658s] running install_scripts
+[1.768s] Installing object_detection_node_onnx script to /ros2_ws/install/object_detection_semantic_segmentation_pkg/lib/object_detection_semantic_segmentation_pkg
+[1.768s] writing list of installed files to '/ros2_ws/build/object_detection_semantic_segmentation_pkg/install.log'
+[1.800s] Invoked command in '/ros2_ws/src/object_detection_semantic_segmentation_pkg' returned '0': PYTHONPATH=/ros2_ws/build/object_detection_semantic_segmentation_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2_ws/install/object_detection_semantic_segmentation_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/object_detection_semantic_segmentation_pkg build --build-base /ros2_ws/build/object_detection_semantic_segmentation_pkg/build install --record /ros2_ws/build/object_detection_semantic_segmentation_pkg/install.log --single-version-externally-managed install_data

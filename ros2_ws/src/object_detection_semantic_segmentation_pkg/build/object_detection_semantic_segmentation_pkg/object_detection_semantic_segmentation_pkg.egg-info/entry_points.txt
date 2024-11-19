@@ -1,0 +1,2 @@
+[console_scripts]
+object_detection_node_onnx = object_detection_semantic_segmentation_pkg.object_detection_node_onnx:main

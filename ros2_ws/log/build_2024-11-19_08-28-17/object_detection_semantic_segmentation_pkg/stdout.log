@@ -1,0 +1,18 @@
+running egg_info
+writing ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/requires.txt
+writing top-level names to ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/top_level.txt
+reading manifest file '../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+copying package.xml -> /ros2_ws/install/object_detection_semantic_segmentation_pkg/share/object_detection_semantic_segmentation_pkg
+running install_egg_info
+removing '/ros2_ws/install/object_detection_semantic_segmentation_pkg/lib/python3.12/site-packages/object_detection_semantic_segmentation_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/object_detection_semantic_segmentation_pkg/object_detection_semantic_segmentation_pkg.egg-info to /ros2_ws/install/object_detection_semantic_segmentation_pkg/lib/python3.12/site-packages/object_detection_semantic_segmentation_pkg-0.0.0-py3.12.egg-info
+running install_scripts
+Installing object_detection_node_onnx script to /ros2_ws/install/object_detection_semantic_segmentation_pkg/lib/object_detection_semantic_segmentation_pkg
+writing list of installed files to '/ros2_ws/build/object_detection_semantic_segmentation_pkg/install.log'

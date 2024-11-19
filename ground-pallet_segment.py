@@ -1,13 +1,5 @@
 # ground-pallet_segment.py
 
-import os
-import torch
-from utils import PalletDataset, get_transforms, decode_segmap
-from train_deeplabv3plus import train_model, create_deeplabv3plus
-from torch.utils.data import DataLoader
-from torchvision import transforms
-import matplotlib.pyplot as plt
-
 # Set dataset paths
 HOME_DIR = "/content/drive/MyDrive/Pallets_detection"
 SEG_DATASET_DIR = os.path.join(HOME_DIR, "Deeplabv3_ObjectSegmentation_Dataset")
